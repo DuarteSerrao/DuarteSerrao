@@ -2,7 +2,7 @@
 
 My name is Duarte, pronounced "Do Art", which is funny, since I love drawing.
 
-I'm currently in university and I love new projects... which means that Ihave a great record of unfinished ones :')
+I'm currently in university and I love new projects... which means that I have a great record of unfinished ones :')
 
 <!--
 **DuarteSerrao/DuarteSerrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
